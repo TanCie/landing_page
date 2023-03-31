@@ -1,0 +1,75 @@
+.flex {
+    display: flex;
+}
+.justify-between {
+    justify-content: space-between;
+}
+.margin-auto {
+    margin: auto;
+}
+.text-center {
+    text-align: center;
+}
+.align-items {
+    align-items: center;
+}
+.head {
+    padding: 40px 60px;
+}
+.foot {
+    padding: 24px;
+}
+.font-size {
+    font-size: 1.5rem;
+}
+.bold {
+    font-weight: bold;
+}
+
+.btn {
+    margin-left: 90px;
+    padding: 17px 50px;
+    border: 1px solid rgb(184, 181, 175);
+    border-radius: 80px;
+    cursor: pointer;
+    color: white;
+    background-color: rgb(3 7 8);
+}
+#cin {
+    margin: 0;
+}
+.mid {
+    width: 50%;
+}
+.mid h1 {
+    padding: 30px 60px;
+}
+.mid p {
+    padding: 0 60px 30px 30px;
+}
+.boxes {
+    padding: 20px;
+}
+.box img {
+    width: 50%;
+}
+.box h3 {
+    padding: 15px;
+}
+.box-1 {
+    width: 30%;
+    padding: 10px 20px;
+}
+.box-1 p {
+    padding: 10px 0;
+}
+.boxes-1 img {
+    width: 56%;
+}
+a {
+    text-decoration: none;
+}
+.icons {
+    width: 36px;
+    gap: 10px;
+}
